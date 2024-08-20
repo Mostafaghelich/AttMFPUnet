@@ -1,5 +1,4 @@
-# AttMFPUnet
-Attention MFP-Unet
+# Attention MFP-Unet
 
 This code is the implementation of our paper: Automatic fetal biometry prediction using a novel deep convolutional network architecture.
 

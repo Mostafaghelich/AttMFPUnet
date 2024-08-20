@@ -50,7 +50,7 @@ def Attention_block(filters, x, g):
     
     return multiply([psi,x])
 
-def create_unet_model2D(input_image_size,
+def create_Att_MFP_unet_model2D(input_image_size,
                         n_labels=1,
                         layers=4,
                         lowest_resolution=16,

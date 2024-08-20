@@ -18,6 +18,8 @@ Once you have completed these steps, you'll be ready to run the train_segmentati
 
 Happy training!
 
+------------------------------------------------------
+
 This code is the implementation of our paper: Automatic fetal biometry prediction using a novel deep convolutional network architecture. If you used it, please cite the paper:
 
 Oghli MG, Shabanzadeh A, Moradi S, Sirjani N, Gerami R, Ghaderi P, Taheri MS, Shiri I, Arabi H, Zaidi H. Automatic fetal biometry prediction using a novel deep convolutional network architecture. Physica Medica. 2021 Aug 1;88:127-37.
